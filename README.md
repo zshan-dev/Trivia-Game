@@ -2,6 +2,8 @@
 
 This project is a trivia game with a buzzer and math problems, inspired by the Jeopardy theme. It uses an Arduino with an LCD display, buttons for player input, and LEDs to indicate the active player.
 
+Project Demonstration: **https://drive.google.com/drive/folders/1FCn6abQFn24HuT76HCELtPaLLmH7FwMW?usp=sharing**
+
 ## Components
 
 - Arduino
