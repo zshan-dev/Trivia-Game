@@ -8,11 +8,13 @@ Once the host presses their start button, a question will be displayed on the LC
 - PDf containing the schematic diagram and parts used.
 [Computer Engineering Trivia Game.pdf](https://github.com/user-attachments/files/18613975/Computer.Engineering.Trivia.Game.pdf)
 
-![IMG_4848](https://github.com/user-attachments/assets/22b2a614-a7ee-407b-a910-8334ddff64d1)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/22b2a614-a7ee-407b-a910-8334ddff64d1" width="400">
+</p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/78111205-5b96-466f-adc2-80bae90c2ec9" width="200">
-  <img src="https://github.com/user-attachments/assets/403aacce-0f00-40b1-8aa9-b38b35bb858e" width="200">
+  <img src="https://github.com/user-attachments/assets/78111205-5b96-466f-adc2-80bae90c2ec9" width="350">
+  <img src="https://github.com/user-attachments/assets/403aacce-0f00-40b1-8aa9-b38b35bb858e" width="350">
 </p>
 
 ## Components
