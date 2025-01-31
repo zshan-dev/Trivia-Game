@@ -4,7 +4,7 @@ This project is a trivia game with a buzzer and math problems, inspired by the J
 
 Once the host presses their start button, a question will be displayed on the LCD display. All players have an oppurtunity to answer by clicking thier buttons first. Who ever clicekd it first has a LED turn on to indicate it's their turn. The jeoprdy music starts and they have to asnwer the question before the song ends. If they answer incorrectly the host pushes their red button and an LED turns red. The answer to the math question is than displayed on the LCD display. If the person gets it right the host presses the green button which turns on its respective green LED. The LCD than displays "Correct". The game can be restarted by the host clicking their start button twice, once to end the game and another to start a new one.
 
-Project Demonstration: **https://drive.google.com/drive/folders/1FCn6abQFn24HuT76HCELtPaLLmH7FwMW?usp=sharing**
+- Project Demonstration: **https://drive.google.com/drive/folders/1FCn6abQFn24HuT76HCELtPaLLmH7FwMW?usp=sharing**
 - PDf containing the schematic diagram and parts used.
 [Computer Engineering Trivia Game.pdf](https://github.com/user-attachments/files/18613975/Computer.Engineering.Trivia.Game.pdf)
 
