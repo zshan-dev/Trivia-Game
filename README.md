@@ -15,6 +15,7 @@ Once the host presses their start button, a question will be displayed on the LC
 <p align="center">
   <img src="https://github.com/user-attachments/assets/78111205-5b96-466f-adc2-80bae90c2ec9" width="350">
   <img src="https://github.com/user-attachments/assets/403aacce-0f00-40b1-8aa9-b38b35bb858e" width="350">
+  <img src="https://github.com/user-attachments/assets/dd0c0d74-d6c8-4a6b-8f0a-a4e1fe7b15f3" width="350">
 </p>
 
 ## Components
